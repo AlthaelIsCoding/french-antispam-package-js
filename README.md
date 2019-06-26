@@ -1,7 +1,7 @@
 # french_anti-spam_discord-js
 A french package for discord js to prevent spamming
 
-## npm install --save AlthaelFR/french_anti-spam_discord-js#master
+## npm install --save AlthaelIsCoding/french-antispam-package-js#master
 
 ```js
 const Discord = require('discord.js');
